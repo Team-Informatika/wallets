@@ -1,6 +1,6 @@
 # DMS Wallet
 
-Silahkan akuisisi alamat wallet ini dengan menuliskan nama dan kelas di samping alamat wallet nya
+Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samping alamat wallet nya
 
 1. DCvDAwroX2NmJbqYwfwDNf4QP4LpPEMdss
 2. D79mHGy8Ve5D1ijc3pWmBGnJtAeYqEhdc7
