@@ -1,5 +1,16 @@
 # DMS Wallet
 
+Akses proses cekin insentif dms : https://zpool.ca/wallet/DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT
+
+Untuk lihat paid saldo di : 
+- https://documentchain.org/explorer/?search=DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT
+- https://explorer.dms.cash/?search=DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT&net=mainnet
+
+Dimana `DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT` walet kakak hasil pilih di bawah ini.
+
+
+## Daftar User Wallet Adress
+
 Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samping alamat wallet nya
 
 1. DCvDAwroX2NmJbqYwfwDNf4QP4LpPEMdss
