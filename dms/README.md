@@ -15,8 +15,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 
 1. DCvDAwroX2NmJbqYwfwDNf4QP4LpPEMdss Rifaidi 714240044 1c
 2. D79mHGy8Ve5D1ijc3pWmBGnJtAeYqEhdc7
-   3
-   DAtWcYGpy6JfYL358yoGyDGpEGfacbTi4h
+3. DAtWcYGpy6JfYL358yoGyDGpEGfacbTi4h
 4. DAfYpq3RQ6qKSATr8bfjAe4oGzWpsQt2sb
 5. DHVVCbJENbBNpGRDX8uWVsuRVtzfxYucbU hafizt 714240031 1c
 7. DQYpTnnUJNJWG4J6Lx7BRJG1cnNp79sL2Q
@@ -24,8 +23,8 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 10. DMU65Yvw1SUHSRUNMDqSNvEVRjLaPUhRjm
 11. DSV3hvJAgYg4Da3R7Nd9uMYARPyJWya9py
 12. DE65xzz1sg6vMAKoXmYxUb8QrvsRj5vuo7
-13. DU1DYauJ3g2P7ihRqcVw8CkbTvWBX7FeY9
-14. DHoQVqq4FRvCBLcmYy2nL9HsRXRVFuFVDV  Bagas 714240042 1C GNa4oLxyvGDZnc5MQtEaGB7kZ6Kw7xbysBRR9HSoS1Y9 SOL
+13. DU1DYauJ3g2P7ihRqcVw8CkbTvWBX7FeY9  Fauzi 714240032 1C
+14. DHoQVqq4FRvCBLcmYy2nL9HsRXRVFuFVDV  Bagas 714240042 1C
 15. D9HdV6fJRkn9mgXbEMe8soAxAZpH15MdBF
 16. DHAqwkRT7aArWqERQUfZQMZVmF66r2c2K7
 17. D9sC5wUJXQX1yYv79UqqhaGwaY1mgwMmV5
