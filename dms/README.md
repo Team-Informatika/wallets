@@ -24,7 +24,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 9. DSV3hvJAgYg4Da3R7Nd9uMYARPyJWya9py
 10. DE65xzz1sg6vMAKoXmYxUb8QrvsRj5vuo7
 11. DU1DYauJ3g2P7ihRqcVw8CkbTvWBX7FeY9
-12. DHoQVqq4FRvCBLcmYy2nL9HsRXRVFuFVDV
+12. DHoQVqq4FRvCBLcmYy2nL9HsRXRVFuFVDV  714240042 1C
 13. D9HdV6fJRkn9mgXbEMe8soAxAZpH15MdBF
 14. DHAqwkRT7aArWqERQUfZQMZVmF66r2c2K7
 15. D9sC5wUJXQX1yYv79UqqhaGwaY1mgwMmV5
