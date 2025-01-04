@@ -25,7 +25,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 12. DE65xzz1sg6vMAKoXmYxUb8QrvsRj5vuo7
 13. DU1DYauJ3g2P7ihRqcVw8CkbTvWBX7FeY9  Fauzi 714240032 1C
 14. DHoQVqq4FRvCBLcmYy2nL9HsRXRVFuFVDV  Bagas 714240042 1C
-15. D9HdV6fJRkn9mgXbEMe8soAxAZpH15MdBF
+15. D9HdV6fJRkn9mgXbEMe8soAxAZpH15MdBF  Zahra 714240046 1C
 16. DHAqwkRT7aArWqERQUfZQMZVmF66r2c2K7
 17. D9sC5wUJXQX1yYv79UqqhaGwaY1mgwMmV5
 18. DCxe3LTtEVTJb5frh1DBrAkYZ8FMhztaTJ
