@@ -13,7 +13,7 @@ Dimana `DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT` walet kakak hasil pilih di bawah ini
 
 Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samping alamat wallet nya
 
-1. DCvDAwroX2NmJbqYwfwDNf4QP4LpPEMdss
+1. DCvDAwroX2NmJbqYwfwDNf4QP4LpPEMdss Rifaidi 714240044 1c
 2. D79mHGy8Ve5D1ijc3pWmBGnJtAeYqEhdc7
 3. DAtWcYGpy6JfYL358yoGyDGpEGfacbTi4h
 4. DAfYpq3RQ6qKSATr8bfjAe4oGzWpsQt2sb
