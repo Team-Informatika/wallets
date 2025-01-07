@@ -40,7 +40,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 27. DDrfuQ5R7vCUF9bePEsi4pbEvXBdoNkQjN
 28. D92VVCy8wWRn1b2m6tH9xaEu4uhE11drMQ
 29. DNBuzfwjqD4KtWudGryNeSiZdtCVbowCF8
-30. DTPaHrxrPVWvZqc1WiUpFdvqrRSGpLeyrR
+30. DTPaHrxrPVWvZqc1WiUpFdvqrRSGpLeyrR Bagus 714240060 1C
 31. DM1YvDPVsUTzfKQQphiuam8fSVnSvREWTK
 32. DMs5XWJ1cwBz3Cu2QyWoCL3nTCDwzNwnYz
 33. D5awZFB66K9V78kNQNGyQGR4ZS4eE9AH4R
