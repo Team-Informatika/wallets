@@ -16,7 +16,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 1. DCvDAwroX2NmJbqYwfwDNf4QP4LpPEMdss Rifaidi 714240044 1c
 2. D79mHGy8Ve5D1ijc3pWmBGnJtAeYqEhdc7
 3. DAtWcYGpy6JfYL358yoGyDGpEGfacbTi4h
-4. DAfYpq3RQ6qKSATr8bfjAe4oGzWpsQt2sb
+4. DAfYpq3RQ6qKSATr8bfjAe4oGzWpsQt2sb 714240045 1c
 5. DHVVCbJENbBNpGRDX8uWVsuRVtzfxYucbU hafizt 714240031 1c
 7. DQYpTnnUJNJWG4J6Lx7BRJG1cnNp79sL2Q Nawal 714240038 1c
 9. DMTiTxErHZZamtczQSuDVciDDCUwj7Ha13 Richard 714240047 1C
