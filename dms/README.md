@@ -33,10 +33,10 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 20. DSQZAnt8qQB3N68E3gjnh1PnoCD7Q44Sq6
 21. DLf2oRhkat9kmcypyCaLxvdLK75F4ppjax
 22. DCfUVrPxoca5djgF155PSKsF4PnwGuLTmq
-23. DM89gykerjCBcGWUtCAch3TXvWVnApBmaj
-24. DCu8g7jzEGJ9ggwmTZr8iaVCvwpqeko2Rm
+23. DM89gykerjCBcGWUtCAch3TXvWVnApBmaj 
+24. DCu8g7jzEGJ9ggwmTZr8iaVCvwpqeko2Rm 
 25. DRapgXKZB5eDqgmJ5izuJAGbAfUoa1cq7e
-26. DMQurrvYepaqjC6SjuGL5xz9vESPvjjbur
+26. DMQurrvYepaqjC6SjuGL5xz9vESPvjjbur Zidan Ardi 714240036 1C
 27. DDrfuQ5R7vCUF9bePEsi4pbEvXBdoNkQjN
 28. D92VVCy8wWRn1b2m6tH9xaEu4uhE11drMQ
 29. DNBuzfwjqD4KtWudGryNeSiZdtCVbowCF8
@@ -56,7 +56,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 43. DHsc9ckWkEW3mEfPyWTVfS311Fm9kcAayn
 44. DAzDVJnhrSSymkUVYxGBorKmAhh2eTuKNb
 45. DHyPAUoVdpwssgu3YNvLJZiEup7RzVMrTC
-46. DFoSfB9jd6NPHGE9WShcQACRi3SuvtM8fW
+46. DFoSfB9jd6NPHGE9WShcQACRi3SuvtM8fW Adryan 714240034 1C
 
 
 
