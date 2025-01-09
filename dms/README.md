@@ -29,7 +29,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 16. DHAqwkRT7aArWqERQUfZQMZVmF66r2c2K7
 17. D9sC5wUJXQX1yYv79UqqhaGwaY1mgwMmV5
 18. DCxe3LTtEVTJb5frh1DBrAkYZ8FMhztaTJ
-19. DKzfUrc1M1Lz6zeyAdt7EDk3vLzaJPWFQc
+19. DKzfUrc1M1Lz6zeyAdt7EDk3vLzaJPWFQc Rafli MR 714240059 1C
 20. DSQZAnt8qQB3N68E3gjnh1PnoCD7Q44Sq6
 21. DLf2oRhkat9kmcypyCaLxvdLK75F4ppjax
 22. DCfUVrPxoca5djgF155PSKsF4PnwGuLTmq
