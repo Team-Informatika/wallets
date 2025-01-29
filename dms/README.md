@@ -45,7 +45,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 32. DMs5XWJ1cwBz3Cu2QyWoCL3nTCDwzNwnYz
 33. D5awZFB66K9V78kNQNGyQGR4ZS4eE9AH4R/Dzulkifli/714220030/3B
 34. DPikXxec2H1otkZ7jtkW8Hqn4n893zQ3tr/IrgiFauzi/714220035/3B
-35. DGYGnaqCBN6aFc9nJfPmQb1UsjuUesDqBx
+35. DGYGnaqCBN6aFc9nJfPmQb1UsjuUesDqBx/MRayfanAqbil/714220044/3B
 36. DRUvyPKvBoU7Axohiwp487H6GRvBCc6A3G
 37. DJcTrZXRrwqLwfjqgjgdEkMmBsp81BrDzB
 38. DUAMeL94d9A6KPs2woKvuu3CpEuqEPkJPS
