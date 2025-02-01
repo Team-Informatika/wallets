@@ -49,12 +49,12 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 36. DRUvyPKvBoU7Axohiwp487H6GRvBCc6A3G/BarganaKukuh/714220013/3B
 37. DJcTrZXRrwqLwfjqgjgdEkMmBsp81BrDzB/HammiAhlan/714220062/3B
 38. DUAMeL94d9A6KPs2woKvuu3CpEuqEPkJPS/AgungNainggolan/714220039/3B
-39. DQnsoF1MVPm2NmFQ7sDJA8TxHrgbubk4Wu AndikaMF 714220063 3B
+39. DQnsoF1MVPm2NmFQ7sDJA8TxHrgbubk4Wu 
 40. DAyoiUMYouvkPZp5r4EGe7aVZjW4nToxCQ
 41. DTEqga2CQnPrLMbPUuTou2ye6GJQ2Statf
 42. DLaXDmmFTnT2LtTFyStsEGhxk3FUQeS64B Malik 714240062 1C
 43. DHsc9ckWkEW3mEfPyWTVfS311Fm9kcAayn
-44. DAzDVJnhrSSymkUVYxGBorKmAhh2eTuKNb
+44. DAzDVJnhrSSymkUVYxGBorKmAhh2eTuKNb AndikaMF 714220063 3B
 45. DHyPAUoVdpwssgu3YNvLJZiEup7RzVMrTC
 46. DFoSfB9jd6NPHGE9WShcQACRi3SuvtM8fW Adryan 714240034 1C
 
