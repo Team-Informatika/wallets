@@ -28,7 +28,7 @@
 26. MW6NiSNZuZXC11JnVXon5Qc4brc8KttDs6 Muhamad Rifaidi_1C_6288218271426
 27. MWSigR4Ve2ZfmrXqxASayoBTEgRTtF1px8 BagasAgungWiyono_1C_6285179935117
 28. MPUVyctjds7LCZVLpW6VChtAevNJ76jDv3 SyalwaAliyaRahmawati_1C_6283137760847
-29. MBX5jaX4dcJgBLjY28MM9yMn4eHeuUa9zi Nawal Haromaen_1C_62895356871030
+29. ----------------------------------(Sama)
 30. MAwo1Pnc6d2Dz1rtsgdrKWKJvRRcdiuD24 
 31. MPHmgkn59gMhKdGBUZReabRBLJMseP1EFp
 32. MKL6igQ23xg3N5y4xTU2VrmBuAdJieiX93
