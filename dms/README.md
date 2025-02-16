@@ -55,7 +55,7 @@ Silahkan akuisisi alamat wallet ini dengan menuliskan nama-npm dan kelas di samp
 42. DLaXDmmFTnT2LtTFyStsEGhxk3FUQeS64B Malik 714240062 1C
 43. DHsc9ckWkEW3mEfPyWTVfS311Fm9kcAayn
 44. DAzDVJnhrSSymkUVYxGBorKmAhh2eTuKNb AndikaMF 714220063 3B
-45. DHyPAUoVdpwssgu3YNvLJZiEup7RzVMrTC
+45. DHyPAUoVdpwssgu3YNvLJZiEup7RzVMrTC AliffathurMR 714220066 3B
 46. DFoSfB9jd6NPHGE9WShcQACRi3SuvtM8fW Adryan 714240034 1C
 
 
